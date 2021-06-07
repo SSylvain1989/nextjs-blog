@@ -1,3 +1,23 @@
+SSG : Server side generator with npm run export. 
+A file /out will be create and all files will be translate in html files 
+
+*static generation 
+- build all files at once
+- build all files when one changes
+
+*incremental static generation
+=> server side render and static side generation
+- when 1st visit: generate the page
+- when 2nd visit: serve static page
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
